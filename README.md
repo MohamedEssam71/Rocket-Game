@@ -5,7 +5,7 @@ AI Rocket Game based on Minimax Algorithm
 - Players take turns moving their rockets forward.
 - The game offers the choice to play against another human or against the computer.
 - Develop the game with two players, and then add a computer player that uses backtracking to decide the best move.
-![image](https://github.com/MohamedEssam71/Rocket-Game/assets/101371937/b149a168-e7e5-4870-88cc-4909f1a15643)
+![RocketGame](https://github.com/MohamedEssam71/Rocket-Game/assets/101371937/378d1427-9ac4-4af2-af1d-38b3481d3df1)
 
 ## Game Tree and Backtracking
 Similar to the Nim game, a game tree represents all the possible moves from a given state. The game tree can be searched using backtracking to find the best move. Here's how the game tree works:
